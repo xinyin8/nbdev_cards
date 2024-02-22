@@ -22,4 +22,4 @@ can use to create, and compare playing cards.
 Card(1, 3)
 ```
 
-    NameError: name 'Card' is not defined
+    3♥️
