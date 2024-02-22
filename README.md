@@ -18,10 +18,18 @@ pip install nbdev-cards
 
 This lib provides a
 [`Card`](https://xinyin8.github.io/nbdev_cards/card.html#card) class you
-can use to create, and compare playing cards.
+can use to create, display and compare playing cards.
 
 ``` python
 Card(1, 3)
 ```
 
     3♥️
+
+Suits are numbered according to this list:
+
+``` python
+suits
+```
+
+    ['♠️', '♥️', '♦️', '♣️']
